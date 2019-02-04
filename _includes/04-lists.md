@@ -1,2 +1,2 @@
--:smile:
--:tada:
+- :smile:
+- :tada:
